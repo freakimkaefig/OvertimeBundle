@@ -1,0 +1,25 @@
+{
+  "name": "freakimkaefig/overtime-bundle",
+  "description": "Kimai2 bundle to manage employees overtime.",
+  "homepage": "https://lukaslamm.com/overtime-bundle",
+  "type": "kimai-plugin",
+  "version": "0.1",
+  "require": {
+    "kimai/kimai2-composer": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lukas Lamm",
+      "email": "info@lukaslamm.com",
+      "homepage": "https://lukaslamm.com"
+    }
+  ],
+  "extra": {
+    "kimai": {
+      "require": "1.3",
+      "version": "0.1",
+      "name": "OvertimeBundle"
+    }
+  }
+}
